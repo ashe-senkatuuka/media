@@ -1,0 +1,29 @@
+body{
+	background-color: #edf0f5;
+}
+
+.app-nav-bar{
+	background-color: #3b5998;
+	height: 90px;
+	border-bottom: 1px #133783 solid;
+	color:white;
+}
+
+#disclaimer{
+	font-size: 0.8rem;
+}
+
+.promo{
+	margin-top: 2rem;
+}
+
+footer
+{
+	background-color: white;
+	height: 300px;
+	
+}
+
+.lang span{
+	margin: 0 13px;
+}
